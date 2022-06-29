@@ -14,3 +14,10 @@ curso practico de javascript
 - segudo paso: implementar las formulas en javacript
 - Tercer paso: crear funciones
 - cuart paso: integrar JS con html
+
+## Taller #3: promedio, mediana y moda
+
+- Primer paso: definir las formulas
+- segudo paso: implementar las formulas en javacript
+- Tercer paso: crear funciones
+- cuart paso: integrar JS con html
